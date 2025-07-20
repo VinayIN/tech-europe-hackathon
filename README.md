@@ -47,7 +47,7 @@ REQUEST_TIMEOUT=30
 
 ### Step 4: Launch Application
 ```bash
-python app.py
+uv run app.py
 ```
 
 The application will start at `http://localhost:7860`
