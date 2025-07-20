@@ -1,4 +1,4 @@
-# TechEU Content Editor
+# TechEU Editor
 
 A comprehensive AI-powered text generation and modification system featuring multi-agent orchestration, web research capabilities, audio transcription, and cloud-based document storage.
 
@@ -110,14 +110,14 @@ Source Text + Sub-text Query + Modification Prompt → Context Analysis → Text
 ## Project Structure
 
 ```
-tech-europe-hackathon/content/
+tech-europe-hackathon/
 ├── app.py                          # Main Gradio application entry point
 ├── pyproject.toml                  # Project configuration and dependencies
 ├── uv.lock                        # Dependency lock file
 ├── README.md                      # This documentation
 ├── .env                           # Environment variables (create this)
 │
-├── content/                       # Main application package
+├── tech_europe_hackathon/                       # Main application package
 │   ├── __init__.py               # Package initialization
 │   │
 │   ├── agents/                   # AI agent implementations
