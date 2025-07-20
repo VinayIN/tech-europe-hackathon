@@ -6,7 +6,7 @@ A comprehensive AI-powered text generation and modification system featuring mul
 
 ### Step 1: Clone & Navigate
 ```bash
-git clone <repository-url>
+git clone git@github.com:VinayIN/tech-europe-hackathon.git
 cd tech-europe-hackathon
 ```
 
